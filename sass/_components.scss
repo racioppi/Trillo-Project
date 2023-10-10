@@ -32,7 +32,7 @@
     transition: all 0.2s;
     margin-right: -3.25rem;
 
-    // MY CALL
+    // My call
     @media only screen and (max-width: $bp-smallest) {
       border-radius: 0;
     }
@@ -201,7 +201,7 @@
       padding: 1.5rem 0.5rem;
     }
 
-    //MY CALL
+    // My call
     @media only screen and (max-width: $bp-smallest) {
       padding: 0.5rem;
       font-size: 1.2rem;
@@ -241,7 +241,7 @@
 .gallery {
   display: flex;
 
-  //MY CALL
+  // My call
   @media only screen and (max-width: $bp-smallest) {
     flex-direction: column;
   }
@@ -272,7 +272,7 @@
       padding: 1.25rem 2rem;
     }
 
-    // MY CALL
+    // My call
     @media only screen and (max-width: $bp-smallest) {
       font-size: 1.5rem;
       padding: 1rem 1.8rem;
@@ -293,7 +293,7 @@
     height: 1.75rem;
     fill: var(--color-primary);
 
-    //MY CALL
+    // My call
     @media only screen and (max-width: $bp-smallest) {
       width: 1.6rem;
       height: 1.6rem;
@@ -426,11 +426,6 @@
     width: 1rem;
     margin-right: 0.7rem;
 
-    // Older browsers
-    // background-image: url(../img/chevron-thin-right.svg);
-    // background-size: cover;
-
-    //Newer browsers - masks
     background-color: var(--color-primary);
     mask-image: url(../img/chevron-thin-right.svg);
     mask-size: cover;
@@ -462,8 +457,6 @@
     border: 3px solid #fff;
 
     &:not(:last-child) {
-      // TEST
-      // margin-right: -2rem;
       margin-right: -1.5rem;
     }
   }
