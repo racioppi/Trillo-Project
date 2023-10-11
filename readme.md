@@ -6,4 +6,6 @@ The project's goal is to dive into Flexbox and learn a lot from it.
 
 Here I added some media queries decisions that were not in the original project and some styles as well.
 
-### Websit link: [Trillo Project](https://trilloproject-racioppi.netlify.app/)
+### Website link: [Trillo Project](https://trilloproject-racioppi.netlify.app/)
+
+<img src="img/trillo.JPG"/>
